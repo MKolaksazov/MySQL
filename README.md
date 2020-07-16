@@ -1,7 +1,7 @@
 # MySQL
 Tasks on phpmyadmin apache 2 server with MySQL 
 
-(resource: https://www.w3resource.com/sql-exercises)
+(resources: https://www.w3resource.com/sql-exercises, https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 ## 1. Movies database
 consists of 10 tables:
